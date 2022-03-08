@@ -14,9 +14,7 @@ Do you know of any games that uses a health system?
 
 Almost all first person games that you might have come across uses a health system that reduces its value by a specific amount based on a condition, for example, when enemy or another player hits.
 
-First, you can clone the following repository (click link below) that provides the basic assets and scenes along with the player and enemy movement already.
-
-[Git Repo](https://github.com/outscal/Health-And-Damage-System.git)
+### First, you can clone the following repository (click link below) that provides the basic assets and scenes along with the player and enemy movement already. [Git Repo](https://github.com/outscal/Health-And-Damage-System.git)
 
 Is't that amazing? So, what are you waiting for! Let's get into it.
 
