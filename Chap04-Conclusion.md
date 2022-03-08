@@ -8,7 +8,7 @@ Cool isn't it? The life decreases whenever the player touches the enemy and the 
 
 Still Stuck?
 
-### Check this [solution repository](https://github.com/outscal/Health-And-Damage-System/tree/Solution-Statement) if you need help 
+### Check this [Solution Repository](https://github.com/outscal/Health-And-Damage-System/tree/Solution-Statement) if you need help 
 # Showcase To The World!
 
 So now, go ahead, show this to the world, share it with your clanmates and friends on LinkedIn, Instagram and other social meadia handles.
