@@ -10,7 +10,29 @@ First, we need to create a function that does something, in this case, reduce th
 
 Here is a sample script that does this:
 
-![Killplayer](https://user-images.githubusercontent.com/44625252/155331281-3358531d-db0a-498d-997d-56cb90823d86.png)
+```
+    public void KillPlayer()
+    {
+        player_health--;
+        if (player_health == 2)
+        {
+            player_animator.SetTrigger("Hurt");
+            life_three.SetActive(false);
+        }
+        else if (player_health == 1)
+        {
+            player_animator.SetTrigger("Hurt");
+            life_two.SetActive(false);
+        }
+        else
+        {
+            player_animator.SetTrigger("Death");
+            life_one.SetActive(false);
+            player_gameover.GameOver();
+            this.enabled = false;
+        }
+    }
+```
 
 What the above function does is, checks for the value of the player_health variable, then sets is active or inactive based on that value. The final else condition in the function also calls teh GameOver() function since after 3 lives, the player needs to die and the GameOver UI Canvas becomes active. Another trigger is for the respective animation that needs to be played, for example, the player getting hurt.
 
