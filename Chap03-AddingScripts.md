@@ -40,13 +40,20 @@ Then, once the function created, all we need to do is trigger this function when
 
 Here is an example how this can be implemented:
 
-![EnemyCollision](https://user-images.githubusercontent.com/44625252/155331606-8ae5ca54-54ad-424a-9732-ae0c671e233f.png)
+```
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            PlayerController player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
+            player.KillPlayer();
+        }
+    }
+```
 
 In the above function, we can see that OnCollisionEnter2D function (from Monobehaviour) is called whenever both the colliders touch each other. Then this calls the function KillPlayer() which we had created above. Think of this like a function that is calling another function. In any programming language, this is a common practice that creates easily readable code.
 
 And thats it!
-
-![](https://media.giphy.com/media/RLK2SQ1cndlTd4oA7l/giphy.gif)
 
 Think where you need to add these script changes from among the script files.
 
