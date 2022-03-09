@@ -8,7 +8,18 @@ Cool isn't it? The life decreases whenever the player touches the enemy and the 
 
 Still Stuck?
 
-### Check this [Solution Repository](https://github.com/outscal/Health-And-Damage-System/tree/Solution-Statement) if you need help 
+### Check this [Solution Repository](https://github.com/outscal/Health-And-Damage-System/tree/Solution-Statement) if you need help
+
+## Earn Learning points to get more rewards 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+
+You can also click here - [Click Here!](https://academy.outscal.com/welcome/build-in-public/assignments)
+
 # Showcase To The World!
 
 So now, go ahead, show this to the world, share it with your clanmates and friends on LinkedIn, Instagram and other social meadia handles.
