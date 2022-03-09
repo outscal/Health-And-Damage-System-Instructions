@@ -13,7 +13,7 @@ Still Stuck?
 
 So now, go ahead, show this to the world, share it with your clanmates and friends on LinkedIn, Instagram and other social meadia handles.
 
-You can also go through our other courses here - [Courses](https://academy.outscal.com/welcome)
+Keep going and learn how to save player progress here - [Unity Player Prefs](https://academy.outscal.com/unity-player-prefs/).
 
 We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)
 
